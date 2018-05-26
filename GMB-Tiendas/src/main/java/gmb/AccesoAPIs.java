@@ -18,7 +18,7 @@ import com.google.api.services.mybusiness.v4.MyBusiness;
 // acceso a las APIs de todos los proveedores de los programas normales de funcionamiento
 
 public class AccesoAPIs {
-	
+	 
 	
 	// Attributes from Google MyBusiness
 	private static HttpTransport httpTransport;
