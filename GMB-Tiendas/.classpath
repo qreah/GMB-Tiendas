@@ -31,5 +31,10 @@
 	<classpathentry kind="lib" path="/home/rafa/eclipse-workspace/GMB-Tiendas/src/main/lib/google-api-services-mybusiness-v4-revsnapshot-1.23.0-javadoc.jar"/>
 	<classpathentry kind="lib" path="/home/rafa/eclipse-workspace/GMB-Tiendas/src/main/lib/google-api-services-mybusiness-v4-revsnapshot-1.23.0.jar"/>
 	<classpathentry kind="lib" path="/home/rafa/eclipse-workspace/GMB-Tiendas/src/main/lib/google-api-services-mybusiness-v4-rev0-1.23.0-sources.jar"/>
+	<classpathentry excluding="**" kind="src" output="target/GMB.Tiendas-0.1.0-SNAPSHOT/WEB-INF/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/GMB.Tiendas-0.1.0-SNAPSHOT/WEB-INF/classes"/>
 </classpath>
